@@ -19,3 +19,7 @@ def angle_distance(a, b):
         in degrees
     '''
     return abs(b - a)
+
+def function(a):
+        print(a)
+    return
