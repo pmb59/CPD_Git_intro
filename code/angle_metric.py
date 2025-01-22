@@ -21,5 +21,6 @@ def angle_distance(a, b):
     return abs(b - a)
 
 def function(a):
-        print(a)
+    print(a)
     return
+
